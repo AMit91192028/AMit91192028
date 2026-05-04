@@ -3,14 +3,14 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Amit%20Yadav&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=20&animation=fadeIn"/>
 
-<!-- Typing SVG — live typewriter animation -->
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+the+Web%2C+One+Line+at+a+Time+%F0%9F%9A%80;Full+Stack+Developer+%7C+MERN+Stack;Currently+Learning+Node.js+%26+Redux+%F0%9F%93%96;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB;Open+to+Collaborate+%26+Build+Cool+Things!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Live badges -->
+<!-- Live Badges -->
 <img src="https://komarev.com/ghpvc/?username=amit91192028&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <a href="https://www.linkedin.com/in/amit-yadav-fullstack-dev">
@@ -31,14 +31,16 @@
 
 ```javascript
 const amit = {
-  name:       "Amit Yadav",
-  role:       "Full Stack Developer",
-  location:   "India 🇮🇳",
-  currently:  "Working on Backend Systems ⚙️",
-  learning:   ["Node.js", "Redux"],
-  passion:    "Building seamless, scalable web experiences",
-  contact:    "linkedin.com/in/amit-yadav-fullstack-dev",
-  funFact:    "I debug with console.log and I'm not ashamed 😄"
+  name:        "Amit Yadav",
+  role:        "Full Stack Developer",
+  location:    "India 🇮🇳",
+  stack:       ["React", "Node.js", "MongoDB", "Redux", "JavaScript"],
+  focus:       "Crafting fast, scalable & user-friendly web apps",
+  strengths:   ["Clean Code", "Problem Solving", "UI/UX Thinking"],
+  currentWork: "Building robust backend systems & REST APIs ⚙️",
+  goal:        "Ship products that make a real difference 🚀",
+  contact:     "linkedin.com/in/amit-yadav-fullstack-dev",
+  funFact:     "I turn complex problems into simple, elegant solutions 💡"
 };
 ```
 
@@ -77,21 +79,13 @@ const amit = {
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amit91192028&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Amit's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amit91192028&theme=radical&hide_border=true" alt="Amit's GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amit91192028&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Amit's GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=amit91192028&theme=radical&hide_border=true" alt="Amit's GitHub Streak"/>
 
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit91192028&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit91192028&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=7c3aed&point=ffffff" alt="Amit's Contribution Graph"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit91192028&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 ---
