@@ -78,14 +78,7 @@ const amit = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amit91192028&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Amit's GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=amit91192028&theme=radical&hide_border=true" alt="Amit's GitHub Streak"/>
-
-</div>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit91192028&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=amit91192028&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Amit's GitHub Streak"/>
 </div>
 
 ---
