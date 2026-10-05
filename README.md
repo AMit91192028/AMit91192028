@@ -89,7 +89,7 @@ const amit = {
 
 | Platform | Link |
 |:---:|:---|
-| 💼 **LinkedIn** | [amit-yadav-fullstack-dev](www.linkedin.com/in/amit-yv) |
+| 💼 **LinkedIn** | [amit-yadav-fullstack-dev](www.linkedin.com/in/amit-yv)|
 | 🧩 **LeetCode** | [amit_09336](https://www.leetcode.com/amit_09336) |
 | 📁 **GitHub** | [@amit91192028](https://github.com/amit91192028) |
 
